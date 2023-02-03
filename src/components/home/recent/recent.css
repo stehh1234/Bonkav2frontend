@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Battambang&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.img{
+  width: 100%;
+  height: 52%;
+}
+.recent .text {
+  padding: 15px;
+  font-size: 15px;
+}
+h4{
+  padding-left: 10px;
+  font-family:'Roboto','Battambang';
+}
+.recent .category i {
+  font-size: 15px;
+  color: #bec7d8;
+  float: right;
+}
+.recent p {
+  font-size: 15px;
+  color: #72809d;
+}
+.recent .button {
+  
+  border-top: 1px solid #e4e8f3;
+  padding: 15px;
+}
+.recent .button .btn2{
+  background-color: #0878f0;
+}
